@@ -1,0 +1,18 @@
+a { }
+a:hover { text-decoration: none; cursor: pointer }
+
+.page a { transition: color 0.3s; color: #268bd2 }
+.page a:hover { color: #064b92 }
+
+img[alt=KOINICHI-LOGO] {
+	box-shadow: 3px 3px 25px rgba(0,0,0,0.5);
+	width: 200px;
+	height: 200px;
+	display: block;
+	margin: 20px auto;
+	transition: box-shadow 0.5s
+}
+
+img[alt=KOINICHI-LOGO]:hover {
+	box-shadow: 3px 3px 25px rgba(0,0,0,0.8);
+}
