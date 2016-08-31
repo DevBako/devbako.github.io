@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>DevBako</title>
- <link href="http://devbako.ichino.se/blog/atom.xml" rel="self"/>
- <link href="http://devbako.ichino.se/blog/"/>
- <updated>2016-08-31T13:08:52-06:00</updated>
- <id>http://devbako.ichino.se</id>
+ <link href="http://devbako.github.io/atom.xml" rel="self"/>
+ <link href="http://devbako.github.io/"/>
+ <updated>2016-08-31T13:15:34-06:00</updated>
+ <id>http://devbako.github.io</id>
  <author>
    <name>DevBako</name>
    <email>devbako@ichino.se</email>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>Introduction</title>
-   <link href="http://devbako.ichino.se/2016/08/28/introduction/"/>
+   <link href="http://devbako.github.io/2016/08/28/introduction/"/>
    <updated>2016-08-28T00:00:00-06:00</updated>
-   <id>http://devbako.ichino.se/blog/2016/08/28/introduction</id>
+   <id>http://devbako.github.io/2016/08/28/introduction</id>
    <content type="html">&lt;p&gt;No more ‘Hello, World!’. It’s time for ‘Hihi!’&lt;/p&gt;
 </content>
  </entry>
